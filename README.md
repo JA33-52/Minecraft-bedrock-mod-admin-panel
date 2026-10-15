@@ -213,7 +213,7 @@ Le pack dépend de modules en **bêta** : une mise à jour de Minecraft peut dem
 
 Une question, un bug, une idée de fonctionnalité ? Rejoins notre serveur Discord :
 
-[![Rejoindre le Discord](https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TON_CODE_INVITATION)
+[![Rejoindre le Discord](https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5gfpZ2452q)
 
 Pour les bugs reproductibles, tu peux aussi ouvrir une [issue](../../issues) sur GitHub.
 
